@@ -13,4 +13,12 @@
 </br>*Futur du projet*
 
 </br>Théo:
-</br>Je pense pouvoir faire tout ce qu'on avait prévu de faire, mais j'ai un peu d'appréhension pour les animations de la roulette et de la machine à sous. Enfin, j'aimerais ajouter le système de connexion dans l'interface graphique.
+</br>Je pense pouvoir faire tout ce qu'on avait prévu de faire, mais j'ai un peu d'appréhension pour les animations de la roulette et de la machine à sous.
+
+</br>Leonardo:
+</br>j'ai eu des difficultés pour créer une fonction pour la roulette 
+
+</br>on a pas encore syncronisé le graphique et le programme, probablement de futur bug
+
+</br>Leonardo:
+</br>futur projet faire des animations pour la roulette et peut-être ajouter des sons si on y arrive
